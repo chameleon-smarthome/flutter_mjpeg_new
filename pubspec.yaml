@@ -4,8 +4,8 @@ version: 2.0.4
 homepage: https://github.com/mylisabox/flutter_mjpeg
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
-  flutter: ">=1.7.8"
+  sdk: ">=3.7.0-0 <4.0.0"
+  flutter: ">=3.32.0"
 
 dependencies:
   visibility_detector: ">=0.2.0 <1.0.0"
